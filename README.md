@@ -104,8 +104,7 @@ Whether architecting multi-tenant Next.js platforms, orchestrating large languag
 
 ### 🌍 &nbsp; Japanese Translator & Proofreader &nbsp;·&nbsp; Micro:bit Educational Foundation
 
-
-Providing expert Japanese localization for the Micro:bit platform — one of the world's leading educational microcontroller ecosystems, used by millions of students globally across 60+ countries. Responsible for translating and proofing technical documentation, educational curriculum, IDE UI strings, and developer guides with strict accuracy and cultural precision.
+The Micro:bit platform is one of the world's leading educational microcontroller ecosystems, used by millions of students globally across 60+ countries.
 
 ![Localization](https://img.shields.io/badge/Localization-7C3AED?style=flat-square) ![Technical Writing](https://img.shields.io/badge/Technical%20Writing-6D28D9?style=flat-square) ![Education Tech](https://img.shields.io/badge/Education%20Tech-4338CA?style=flat-square) ![i18n](https://img.shields.io/badge/i18n-3730A3?style=flat-square)
 
@@ -117,8 +116,7 @@ Providing expert Japanese localization for the Micro:bit platform — one of the
 ### 🧩 &nbsp; Japanese Translator & Proofreader &nbsp;·&nbsp; Microsoft MakeCode
 **2022 – Present**
 
-Contributing to the Japanese localization of Microsoft MakeCode — Microsoft's open-source platform for creative computing education, supporting physical computing environments including BBC Micro:bit, Adafruit Circuit Playground, and Minecraft Education. Maintaining translation quality and linguistic precision within a globally distributed contributor community.
-
+Microsoft MakeCode is Microsoft's open-source platform for creative computing education, supporting physical computing environments including BBC Micro:bit, Adafruit Circuit Playground, and Minecraft Education.
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Open Source](https://img.shields.io/badge/Open%20Source-7C3AED?style=flat-square) ![MakeCode](https://img.shields.io/badge/MakeCode-6D28D9?style=flat-square) ![QA](https://img.shields.io/badge/Translation%20QA-4338CA?style=flat-square)
 
@@ -129,8 +127,7 @@ Contributing to the Japanese localization of Microsoft MakeCode — Microsoft's 
 
 ### 🏦 &nbsp; 3rd Official Ambassador &nbsp;·&nbsp; Minna no Ginko (みんなの銀行)
 
-Appointed as one of the official brand ambassadors of Minna no Ginko — Japan's first fully digital smartphone bank, operating on a cloud-native architecture purpose-built for the mobile-first generation. Representing the platform's vision of accessible, technology-forward financial services to communities across Japan.
-
+Minna no Ginko is Japan's first fully digital smartphone bank, operating on a cloud-native architecture purpose-built for the mobile-first generation.
 
 ![FinTech](https://img.shields.io/badge/FinTech-7C3AED?style=flat-square) ![Digital Banking](https://img.shields.io/badge/Digital%20Banking-6D28D9?style=flat-square) ![Brand Ambassador](https://img.shields.io/badge/Brand%20Ambassador-4338CA?style=flat-square) ![Community](https://img.shields.io/badge/Community-3730A3?style=flat-square)
 
@@ -141,9 +138,7 @@ Appointed as one of the official brand ambassadors of Minna no Ginko — Japan's
 
 ### 🌐 &nbsp; Japanese Translator &nbsp;·&nbsp; Hypixel Network
 
-
-Contributing to the Japanese translation program for Hypixel — the world's largest Minecraft server network with over 35 million registered players globally. Translating in-game menus, event content, official announcements, and player-facing documentation to Japanese at production quality.
-
+Hypixel is the world's largest Minecraft server network with over 35 million registered players globally.
 
 ![Gaming](https://img.shields.io/badge/Gaming-7C3AED?style=flat-square) ![Community Translation](https://img.shields.io/badge/Community%20Translation-6D28D9?style=flat-square) ![Hypixel](https://img.shields.io/badge/Hypixel-4338CA?style=flat-square) ![Game Localization](https://img.shields.io/badge/Game%20Localization-3730A3?style=flat-square)
 
