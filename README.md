@@ -114,7 +114,6 @@ The Micro:bit platform is one of the world's leading educational microcontroller
 <td>
 
 ### 🧩 &nbsp; Japanese Translator & Proofreader &nbsp;·&nbsp; Microsoft MakeCode
-**2022 – Present**
 
 Microsoft MakeCode is Microsoft's open-source platform for creative computing education, supporting physical computing environments including BBC Micro:bit, Adafruit Circuit Playground, and Minecraft Education.
 
