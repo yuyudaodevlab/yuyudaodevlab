@@ -34,11 +34,10 @@
 ## ⚡ About Me
 
 
-I am a **technologist and systems engineer** based in  Japan, operating at the intersection of **artificial intelligence**, **full-stack web engineering**, and **international localization**. With a rigorous foundation spanning Next.js application architecture, Python-driven AI pipelines, and enterprise-grade infrastructure virtualization via Proxmox VE, I design and ship systems built to perform.
+I am a technologist and systems engineer based in Japan, operating at the intersection of artificial intelligence, full-stack web engineering, and international localization. With a rigorous foundation spanning Next.js application architecture, Python-driven AI pipelines, and enterprise-grade infrastructure virtualization via Proxmox VE, I design and ship systems built to perform.
+My work extends well beyond code. As a certified Google AI professional and an active contributor to globally distributed open-source platforms, I bridge the divide between cutting-edge technology and international communities.
 
-My work extends well beyond code. As a certified **Google AI professional** and an active contributor to globally distributed open-source platforms, I bridge the divide between cutting-edge technology and international communities. I bring a product-engineering mindset to every project — meticulous about performance, deliberate about developer experience, and relentless about quality.
 
-Whether architecting multi-tenant Next.js platforms, orchestrating large language model pipelines, or translating complex technical documentation for Japan's developer community, I operate with the highest standard of precision and craft.
 
 <br/>
 
