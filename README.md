@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:3B0764,60:6B21A8,100:4338CA&height=220&section=header&text=Yusei%20Sakai&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=17&descAlignY=58&descAlign=50&descColor=C4B5FD" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:3B0764,60:6B21A8,100:4338CA&height=220&section=header&text=Yuyudaodev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=17&descAlignY=58&descAlign=50&descColor=C4B5FD" width="100%"/>
 </div>
 
 
@@ -20,11 +20,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusei-sakai&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yuyudaodevlab&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/yusei-sakai?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Yuyudaodevlab?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/yusei-sakai?style=flat-square&color=4338CA&label=Stars&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/Yuyudaodevlab?style=flat-square&color=4338CA&label=Stars&logo=github&logoColor=white" alt="Stars"/>
 </div>
 
 <br/>
@@ -219,7 +219,7 @@ Hypixel is the world's largest Minecraft server network with over 35 million reg
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuyudaodevlab&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=3B0764&hide_border=false&border_color=7C3AED&title_color=A78BFA&custom_title=Yusei%20Sakai%20%E2%80%94%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuyudaodevlab&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=3B0764&hide_border=false&border_color=7C3AED&title_color=A78BFA&custom_title=Yuyudaodevlab%20%E2%80%94%20Contribution%20Graph" width="100%" />
 </div>
 
 ---
