@@ -165,11 +165,11 @@ Hypixel is the world's largest Minecraft server network with over 35 million reg
 <tr>
 <td>
 
-### 🔒 &nbsp; Japanese Translator &nbsp;·&nbsp; Proton VPN
+### 🔒 &nbsp; Japanese Translator &nbsp;·&nbsp; Proton
 
-Proton VPN is the privacy-focused VPN service from Proton, the Swiss team behind Proton Mail, trusted by millions of users worldwide to protect their online privacy.
+Proton is the Swiss privacy company behind Proton Mail, Proton VPN, Proton Drive, Proton Pass and more. I translate Proton's services into Japanese — across the whole product family, not just the VPN.
 
-![Privacy](https://img.shields.io/badge/Privacy-7C3AED?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-6D28D9?style=flat-square) ![Localization](https://img.shields.io/badge/Localization-4338CA?style=flat-square) ![Open Source](https://img.shields.io/badge/Open%20Source-3730A3?style=flat-square)
+![Privacy](https://img.shields.io/badge/Privacy-7C3AED?style=flat-square) ![All Proton Services](https://img.shields.io/badge/All%20Proton%20Services-6D28D9?style=flat-square) ![Localization](https://img.shields.io/badge/Localization-4338CA?style=flat-square) ![Open Source](https://img.shields.io/badge/Open%20Source-3730A3?style=flat-square)
 
 </td>
 </tr>
@@ -188,7 +188,7 @@ Proton VPN is the privacy-focused VPN service from Proton, the Swiss team behind
 | **Microsoft MakeCode Localizer** | Active Japanese localizer on Microsoft's open-source global education platform |
 | **Micro:bit Localizer** | Trusted translator for the BBC Micro:bit ecosystem across 60+ countries |
 | **Hypixel Localizer** | Contributor to the world's largest Minecraft server (35M+ registered players) |
-| **Proton VPN Localizer** | Japanese translator for Proton VPN, the privacy-focused VPN from the team behind Proton Mail |
+| **Proton Localizer** | Japanese translator for all Proton services — Mail, VPN, Drive, Pass and more |
 | **HBC Radio Guest** | Appeared on episode 65 of HBC Radio's *Dosanko Tech High School — Mirai Navi* (『どさんこテックハイスクール‐未来ナビ‐』), broadcast October 22, 2026 |
 | **Yomiuri Shimbun Feature** | Featured in the Yomiuri Shimbun (読売新聞) in a school public-relations article |
 | **Feature Film Actor** | award-winning Japanese theatrical feature film |
