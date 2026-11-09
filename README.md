@@ -70,10 +70,10 @@ I build web apps, macOS tools, games and embedded projects, and contribute Japan
 
 ## Localization
 
-- Official Japanese translator — Proton VPN
 - Japanese translation and proofreading — Micro:bit Educational Foundation
 - Japanese translation and proofreading — Microsoft MakeCode
 - Japanese translator — Hypixel Network
+- Japanese translator — Proton VPN
 
 ## Elsewhere
 
