@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-labelledby="title desc">
+<title id="title">Thanks for visiting</title><desc id="desc">Coffee beans and a small star on a warm dark background.</desc>
+<defs><style>text{font-family:ui-rounded,system-ui,-apple-system,"Segoe UI",sans-serif}.message{fill:#f5e7d2;font-size:20px;letter-spacing:2px}.bean{animation:float 5s ease-in-out infinite;transform-origin:center}.star{animation:twinkle 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0) rotate(-10deg)}50%{transform:translateY(-6px) rotate(10deg)}}@keyframes twinkle{0%,100%{opacity:.3}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}</style></defs>
+<rect width="1000" height="100" rx="24" fill="#241a16"/><rect x="1" y="1" width="998" height="98" rx="23" fill="none" stroke="#493329"/><text x="500" y="59" text-anchor="middle" class="message">Thanks for visiting.</text>
+<g class="bean"><ellipse cx="215" cy="54" rx="10" ry="5.5" fill="#a9714c" transform="rotate(-28 215 54)"/><path d="M207 56l17-5" stroke="#38251b" stroke-width="1.7"/></g><path class="star" d="M764 39l2 6 6 2-6 2-2 6-2-6-6-2 6-2z" fill="#e1bd93"/>
+</svg>
